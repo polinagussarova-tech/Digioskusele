@@ -1,5 +1,5 @@
 1. Kus me saame teha esitlused? Microsoft PowerPointis
-2. Kus asub nupp "Soovitatavad diagrammid" Excelis?
+2. Kus asub nupp "Soovitatavad diagrammid" Excelis? Lisa (Insert) vahekaardil
 3. Nimeta font, mida me kasutame referaatides.
 4. Millises programmis saab teha ilusa esitlust?
 5. Millise valemi abil saab arvutada keskmise arvu?
