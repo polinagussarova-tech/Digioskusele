@@ -2,4 +2,4 @@
 2. Kus asub nupp "Soovitatavad diagrammid" Excelis? Lisa (Insert) vahekaardil
 3. Nimeta font, mida me kasutame referaatides. Times New Roman
 4. Millises programmis saab teha ilusa esitlust? Microsoft PowerPointis
-5. Millise valemi abil saab arvutada keskmise arvu?
+5. Millise valemi abil saab arvutada keskmise arvu? =AVERAGE()
